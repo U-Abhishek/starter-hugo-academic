@@ -35,7 +35,7 @@ education:
       year: 2008
     - course: BTech in Electrical and Electronics Engineering + Minor in AI and ML
       institution: VNR VJIET
-      year: 4
+      year: 2023
 superuser: true
 last_name: Bighetti
 highlight_name: true
