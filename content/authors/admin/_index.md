@@ -30,15 +30,12 @@ organizations:
   - name: VNR VJIET
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
+    - course: BTech in Electrical and Electronics Engineering + Minor in AI and ML
+      institution: VNR VJIET
+      year: 4
 superuser: true
 last_name: Bighetti
 highlight_name: true
