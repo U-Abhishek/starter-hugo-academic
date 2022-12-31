@@ -27,8 +27,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: VNR VJIET
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -46,8 +45,7 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I have worked on numerous projects involving the design, development, and implementation of robotics systems and computer vision algorithms. These projects have ranged from small-scale prototypes to large-scale, real-world applications.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
