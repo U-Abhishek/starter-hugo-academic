@@ -6,4 +6,6 @@ weight: 20
 title: Abhishek Uddaraju
 active: true
 author: admin
+design:
+  columns: "1"
 ---
