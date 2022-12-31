@@ -7,5 +7,5 @@ title: Abhishek Uddaraju
 active: true
 author: admin
 design:
-  columns: "1"
+  columns: ""
 ---
