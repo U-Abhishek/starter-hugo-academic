@@ -34,7 +34,7 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2008
     - course: BTech in Electrical and Electronics Engineering + Minor in AI and ML
-      institution: VNR VJIET
+      institution: VNR Vignana Jyothi Institute of Engineering & Technology
       year: 2023
 superuser: true
 last_name: Bighetti
